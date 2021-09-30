@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\obj\Debug\net5.0\usandoSwithCase.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\obj\Debug\net5.0\usandoSwithCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\obj\Debug\net5.0\usandoSwithCase.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\obj\Debug\net5.0\usandoSwithCase.AssemblyInfo.cs
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\obj\Debug\net5.0\usandoSwithCase.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\bin\Debug\net5.0\usandoSwithCase.exe
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\bin\Debug\net5.0\usandoSwithCase.deps.json
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\bin\Debug\net5.0\usandoSwithCase.runtimeconfig.json
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\bin\Debug\net5.0\usandoSwithCase.runtimeconfig.dev.json
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\bin\Debug\net5.0\usandoSwithCase.dll
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\bin\Debug\net5.0\ref\usandoSwithCase.dll
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\bin\Debug\net5.0\usandoSwithCase.pdb
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\obj\Debug\net5.0\usandoSwithCase.dll
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\obj\Debug\net5.0\ref\usandoSwithCase.dll
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\obj\Debug\net5.0\usandoSwithCase.pdb
+C:\projetos\ams\1ano\estruturaSwithcase\usandoSwithCase\obj\Debug\net5.0\usandoSwithCase.genruntimeconfig.cache
